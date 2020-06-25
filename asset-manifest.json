@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/krystafur-toyota-research-dashboard/static/css/main.6fd86e75.chunk.css",
+    "main.js": "/krystafur-toyota-research-dashboard/static/js/main.bb9a5e4c.chunk.js",
+    "main.js.map": "/krystafur-toyota-research-dashboard/static/js/main.bb9a5e4c.chunk.js.map",
+    "runtime-main.js": "/krystafur-toyota-research-dashboard/static/js/runtime-main.8f5695f4.js",
+    "runtime-main.js.map": "/krystafur-toyota-research-dashboard/static/js/runtime-main.8f5695f4.js.map",
+    "static/js/2.170a3475.chunk.js": "/krystafur-toyota-research-dashboard/static/js/2.170a3475.chunk.js",
+    "static/js/2.170a3475.chunk.js.map": "/krystafur-toyota-research-dashboard/static/js/2.170a3475.chunk.js.map",
+    "index.html": "/krystafur-toyota-research-dashboard/index.html",
+    "precache-manifest.0d6578490e83dce7575d12e03b5a5a8a.js": "/krystafur-toyota-research-dashboard/precache-manifest.0d6578490e83dce7575d12e03b5a5a8a.js",
+    "service-worker.js": "/krystafur-toyota-research-dashboard/service-worker.js",
+    "static/css/main.6fd86e75.chunk.css.map": "/krystafur-toyota-research-dashboard/static/css/main.6fd86e75.chunk.css.map",
+    "static/js/2.170a3475.chunk.js.LICENSE.txt": "/krystafur-toyota-research-dashboard/static/js/2.170a3475.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f5695f4.js",
+    "static/js/2.170a3475.chunk.js",
+    "static/css/main.6fd86e75.chunk.css",
+    "static/js/main.bb9a5e4c.chunk.js"
+  ]
+}
